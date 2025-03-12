@@ -1,0 +1,12 @@
+[submodule "projectable"]
+	path = projectable
+	url = ssh://aur@aur.archlinux.org/projectable.git
+[submodule "projectable-git"]
+	path = projectable-git
+	url = ssh://aur@aur.archlinux.org/projectable-git.git
+[submodule "cargo-bootimage-git"]
+	path = cargo-bootimage-git
+	url = ssh://aur@aur.archlinux.org/cargo-bootimage-git.git
+[submodule "otf-made-evolve-sans"]
+	path = otf-made-evolve-sans
+	url = ssh://aur@aur.archlinux.org/otf-made-evolve-sans.git
